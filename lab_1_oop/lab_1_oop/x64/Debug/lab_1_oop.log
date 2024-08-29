@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Admin\source\repos\lab_1_oop\lab_1_oop\Main.cpp(36,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\lab_1_oop\lab_1_oop\Main.cpp(39,29): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_1_oop.vcxproj -> C:\Users\Admin\source\repos\lab_1_oop\x64\Debug\lab_1_oop.exe
